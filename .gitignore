@@ -1,9 +1,17 @@
-.idea/
-.idea/*
-node_modules
-node_modules/*
-public/
-public/*
-.DS_Store
+# Dependencies
+node_modules/
+
+# Generated build output
+build/
 dist/
-dist/*
+public/
+
+# Tool caches and logs
+.cache/
+*.log
+npm-debug.log*
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store

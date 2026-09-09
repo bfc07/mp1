@@ -103,3 +103,10 @@ We acknowledge the transformative potential of Large Language Models (LLM) in ge
 
 As part of this class, we *do* encourage students to experiment with LLM services such as OpenAI's ChatGPT to generate source code for MPs. If LLMs are used to generate code for an MP, students *must* (1) submit their chatlogs along with their source code, and (2) answer survey questions related to their experience using LLMs in the grading form. Failure to do this will be a violation of the academic integrity policy of this course.
 
+## Sources and Attribution
+
+- **Webfonts:** [Inter](https://fonts.google.com/specimen/Inter) and [Source Serif 4](https://fonts.google.com/specimen/Source+Serif+4), served by Google Fonts.
+- **Interface icons:** The education, code, and globe icons are adapted from [Google Material Symbols](https://fonts.google.com/icons) and implemented as scalable SVG masks in SCSS.
+- **Social icons:** GitHub and LinkedIn brand marks are implemented as scalable SVG masks in SCSS. Brand references: [GitHub Logos](https://github.com/logos) and [LinkedIn Brand Guidelines](https://brand.linkedin.com/downloads).
+- **Site media:** The profile image, fixed-background image, company logos, and sample video were supplied by the site author.
+- **Development assistance:** OpenAI Codex was used to assist with implementation. The required conversation record is listed in `llm_logs.csv`.
